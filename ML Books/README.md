@@ -21,6 +21,9 @@ by Kevin P. Murphy
 3. Probabilistic Machine Learning: Advanced Topics
 by Kevin P. Murphy
 
+4. Alice’s Adventures in a differentiable wonderland
+by Simone Scardapane
+
 
 ### Systems
 
