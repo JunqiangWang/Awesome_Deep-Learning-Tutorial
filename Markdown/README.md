@@ -5,7 +5,8 @@
 
 ### Online
 
-1. https://www.markdowntutorial.com/lesson/2/  
-2. https://www.markdowntutorial.com/conclusion/
+
+1. https://www.markdownguide.org/getting-started/  
+2. https://www.markdowntutorial.com/lesson/2/  
+3. https://www.markdowntutorial.com/conclusion/
    
-3. https://www.markdownguide.org/getting-started/
