@@ -10,7 +10,16 @@ A collection of machine learning books
 
 ## Resources 
 
-### Algorithm
+### Algorithms
+
+1. Probabilistic Machine Learning: An Introduction
+by Kevin P. Murphy
+
+2. Machine Learning
+by Kevin P. Murphy  
+
+3. Probabilistic Machine Learning: Advanced Topics
+by Kevin P. Murphy
 
 
 ### Systems
