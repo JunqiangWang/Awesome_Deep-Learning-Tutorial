@@ -29,6 +29,10 @@ by Simone Scardapane
 1. Natural Language Processing with PyTorch  
 by Delip Rao & Brian McMahan
 
+### Keras
+1. Deep Learning with Python  
+by Francois Chollet
+
 ### Systems
 
 1. Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications  
