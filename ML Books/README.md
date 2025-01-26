@@ -16,12 +16,19 @@ A collection of machine learning books
 by Kevin P. Murphy
 
 2. Machine Learning
-by Kevin P. Murphy  
-
-3. Probabilistic Machine Learning: Advanced Topics
 by Kevin P. Murphy
 
-4. Alice’s Adventures in a differentiable wonderland
+## PyTorch
+
+Natural Language Processing with PyTorch
+by Delip Rao & Brian McMahan
+
+
+
+4. Probabilistic Machine Learning: Advanced Topics
+by Kevin P. Murphy
+
+5. Alice’s Adventures in a differentiable wonderland
 by Simone Scardapane
 
 
