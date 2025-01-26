@@ -12,26 +12,27 @@ A collection of machine learning books
 
 ### Algorithms
 
-1. Probabilistic Machine Learning: An Introduction
+1. Probabilistic Machine Learning: An Introduction  
 by Kevin P. Murphy
 
-2. Machine Learning
+2. Machine Learning  
 by Kevin P. Murphy
 
-3. Probabilistic Machine Learning: Advanced Topics
+3. Probabilistic Machine Learning: Advanced Topics  
 by Kevin P. Murphy
 
-4. Alice’s Adventures in a differentiable wonderland
+4. Alice’s Adventures in a differentiable wonderland  
 by Simone Scardapane
 
 ### PyTorch
 
-1. Natural Language Processing with PyTorch
+1. Natural Language Processing with PyTorch  
 by Delip Rao & Brian McMahan
 
 ### Systems
 
-1. Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications 1st Edition
+1. Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications  
+1st Edition
 by Chip Huyen (Author)
 
 
