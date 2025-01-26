@@ -18,19 +18,16 @@ by Kevin P. Murphy
 2. Machine Learning
 by Kevin P. Murphy
 
-## PyTorch
-
-Natural Language Processing with PyTorch
-by Delip Rao & Brian McMahan
-
-
-
-4. Probabilistic Machine Learning: Advanced Topics
+3. Probabilistic Machine Learning: Advanced Topics
 by Kevin P. Murphy
 
-5. Alice’s Adventures in a differentiable wonderland
+4. Alice’s Adventures in a differentiable wonderland
 by Simone Scardapane
 
+### PyTorch
+
+1. Natural Language Processing with PyTorch
+by Delip Rao & Brian McMahan
 
 ### Systems
 
