@@ -24,6 +24,10 @@ by Kevin P. Murphy
 4. Alice’s Adventures in a differentiable wonderland  
 by Simone Scardapane
 
+5. Deep Learning
+   by Christopher M.Bishop
+   
+
 ### PyTorch
 
 1. Natural Language Processing with PyTorch  
