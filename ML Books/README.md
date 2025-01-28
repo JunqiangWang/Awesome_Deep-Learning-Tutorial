@@ -33,6 +33,9 @@ by Simone Scardapane
 1. Natural Language Processing with PyTorch  
 by Delip Rao & Brian McMahan
 
+2. Dive into Deep Learning
+by AstonZhang et al.
+
 ### Keras
 1. Deep Learning with Python  
 by Francois Chollet
