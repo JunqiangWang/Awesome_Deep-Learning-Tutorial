@@ -13,19 +13,20 @@ A collection of machine learning books
 ### Algorithms
 
 1. Probabilistic Machine Learning: An Introduction  
-by Kevin P. Murphy
+   by Kevin P. Murphy
 
 2. Machine Learning  
-by Kevin P. Murphy
+   by Kevin P. Murphy
 
 3. Probabilistic Machine Learning: Advanced Topics  
-by Kevin P. Murphy
+   by Kevin P. Murphy
 
-4. Alice’s Adventures in a differentiable wonderland  
-by Simone Scardapane
 
-5. Deep Learning  
+4. Deep Learning  
    by Christopher M.Bishop
+   
+5. Alice’s Adventures in a differentiable wonderland  
+   by Simone Scardapane
 
 ### Causality  
 1. Causality
@@ -38,20 +39,20 @@ by Simone Scardapane
 ### PyTorch
 
 1. Natural Language Processing with PyTorch  
-by Delip Rao & Brian McMahan
+   by Delip Rao & Brian McMahan
 
 2. Dive into Deep Learning  
-by AstonZhang et al.
+   by AstonZhang et al.
 
 ### Keras
 1. Deep Learning with Python  
-by Francois Chollet
+   by Francois Chollet
 
 ### Systems
 
 1. Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications  
-1st Edition
-by Chip Huyen (Author)
+   1st Edition
+   by Chip Huyen (Author)
 
 
 
