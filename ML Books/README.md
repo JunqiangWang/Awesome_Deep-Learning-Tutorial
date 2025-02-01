@@ -26,6 +26,13 @@ by Simone Scardapane
 
 5. Deep Learning  
    by Christopher M.Bishop
+
+### Causality  
+1. Causality
+   by Judea Pearl
+
+2. The Book of Why
+   by Judea Pearl
    
 
 ### PyTorch
