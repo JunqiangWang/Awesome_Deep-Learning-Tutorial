@@ -11,42 +11,25 @@ A collection of resources for learning Python
 ## Resources 
 
 
-### Python 
-
-1. https://docs.python.org/3/contents.html
-
+### Python  
+1. https://docs.python.org/3/contents.html  
 2. https://www.w3schools.com/python/default.asp
 
-
-### Numpy
-
+### Numpy  
 1. https://www.w3schools.com/python/numpy/numpy_array_join.asp
 
-### Pandas
+### Pandas  
+1. https://www.w3schools.com/python/pandas/pandas_intro.asp
 
-https://www.w3schools.com/python/pandas/pandas_intro.asp
+### SciPy  
+1. https://www.w3schools.com/python/scipy/index.php
 
-### SciPy
+### PyTorch  
+1. https://pytorch.org
 
-https://www.w3schools.com/python/scipy/index.php
-
-### PyTorch 
-
-https://pytorch.org
-
-### TensorFlow
-
+### TensorFlow  
 https://www.tensorflow.org/tutorials/structured_data/time_series#linear_model
 
-
-### Books
-
-
-### Author 
-
-Junqiang Wang
-
-Email: junqiangwang333@gmail.com
 
 
 
