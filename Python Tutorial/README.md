@@ -28,7 +28,7 @@ A collection of resources for learning Python
 1. https://pytorch.org
 
 ### TensorFlow  
-https://www.tensorflow.org/tutorials/structured_data/time_series#linear_model
+1. https://www.tensorflow.org/tutorials/structured_data/time_series#linear_model
 
 
 
