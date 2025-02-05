@@ -29,10 +29,10 @@ A collection of machine learning books
    by Simone Scardapane
 
 ### Causality  
-1. Causality
+1. Causality  
    by Judea Pearl
 
-2. The Book of Why
+2. The Book of Why  
    by Judea Pearl
    
 
