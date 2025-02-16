@@ -1,4 +1,4 @@
-# Machine Learning Tutorial 
+# Machine Learning and Deep Learning Tutorial 
 
 
 version 0.0.1
