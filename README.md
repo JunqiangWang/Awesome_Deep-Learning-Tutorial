@@ -9,5 +9,5 @@ A collection of resources for machine learning and deep learning
 
 ## Author
 
-Junqiang Wang 
+Junqiang Wang  
 Email: junqiangwang333@gmail.com
