@@ -16,5 +16,10 @@ https://www.arxiv.org/pdf/2502.12352
 
 
 
+## Biology
+1. Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning  
+https://www.nature.com/articles/s41467-025-56297-9
+
+## Single cell
 
 
