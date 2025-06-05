@@ -28,6 +28,9 @@ A collection of machine learning books
 5. Alice’s Adventures in a differentiable wonderland  
    by Simone Scardapane
 
+6. The StatQuest Illustrated Guide to Neural Networks and AI
+   by Josh Starmer
+
 ### Causality  
 1. Causality  
    by Judea Pearl
