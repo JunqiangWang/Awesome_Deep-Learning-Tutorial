@@ -14,7 +14,8 @@ https://arxiv.org/pdf/1312.6114
 1. TOWARDS MECHANISTIC INTERPRETABILITY OF GRAPH TRANSFORMERS VIA ATTENTION GRAPHS  
 https://www.arxiv.org/pdf/2502.12352  
 
-## Neural ODE
+## Neural ODE  
+Neural Ordinary Differential Equations  
 https://arxiv.org/pdf/1806.07366
 
 
