@@ -20,17 +20,16 @@ https://arxiv.org/pdf/1806.07366
 torchode: A Parallel ODE Solver for PyTorch  
 https://arxiv.org/pdf/2210.12375  
 
-
-
-
-
-
-
-
 ## Biology
 1. Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning  
 https://www.nature.com/articles/s41467-025-56297-9
+2. Leveraging dendritic properties to advance machine learning and neuro-inspired computing
+https://www.sciencedirect.com/science/article/pii/S0959438824000151  
 
 ## Single cell
+1. Virtual Cell Challenge: Toward a Turing test for the virtual cell
+https://www.cell.com/action/showPdf?pii=S0092-8674%2825%2900675-0
+2. The CausalBench challenge: A machine learning contest for gene network inference from single-cell perturbation data
+https://arxiv.org/abs/2308.15395
 
 
