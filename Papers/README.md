@@ -33,7 +33,7 @@ https://www.cell.com/action/showPdf?pii=S0092-8674%2825%2900675-0
 https://arxiv.org/abs/2308.15395
 
 ## Algorithm  
-Bayesian Computation in Deep Learning  
+1. Bayesian Computation in Deep Learning  
 https://arxiv.org/abs/2502.18300
 
 
