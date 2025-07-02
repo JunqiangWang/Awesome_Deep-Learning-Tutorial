@@ -15,9 +15,9 @@ https://arxiv.org/pdf/1312.6114
 https://www.arxiv.org/pdf/2502.12352  
 
 ## Neural ODE  
-Neural Ordinary Differential Equations  
+1. Neural Ordinary Differential Equations  
 https://arxiv.org/pdf/1806.07366  
-torchode: A Parallel ODE Solver for PyTorch  
+2. torchode: A Parallel ODE Solver for PyTorch  
 https://arxiv.org/pdf/2210.12375  
 
 ## Biology
