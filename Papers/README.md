@@ -13,7 +13,7 @@ https://arxiv.org/pdf/1312.6114
 ## Graph Neural Networks  
 1. TOWARDS MECHANISTIC INTERPRETABILITY OF GRAPH TRANSFORMERS VIA ATTENTION GRAPHS  
 https://www.arxiv.org/pdf/2502.12352
-2. Fast Graph Representation Learning with PyTorch Geometric
+2. Fast Graph Representation Learning with PyTorch Geometric  
 https://arxiv.org/abs/1903.02428  
 
 ## Neural ODE  
