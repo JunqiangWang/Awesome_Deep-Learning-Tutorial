@@ -31,6 +31,9 @@ A collection of machine learning books
 6. Graph Neural Networks: Foundations, Frontiers, and Applications  
    by Lingfei Wu et al.
 
+7. Graph Representation Learning  
+   by William L. Hamilton  
+
 ### Causality  
 1. Causality  
    by Judea Pearl
