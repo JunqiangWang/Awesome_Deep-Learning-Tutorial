@@ -28,7 +28,7 @@ A collection of machine learning books
 5. Alice’s Adventures in a differentiable wonderland  
    by Simone Scardapane
 
-6. Graph Neural Networks: Foundations, Frontiers, and Applications
+6. Graph Neural Networks: Foundations, Frontiers, and Applications  
    by Lingfei Wu et al.
 
 ### Causality  
