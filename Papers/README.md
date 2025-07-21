@@ -14,7 +14,10 @@ https://arxiv.org/pdf/1312.6114
 1. TOWARDS MECHANISTIC INTERPRETABILITY OF GRAPH TRANSFORMERS VIA ATTENTION GRAPHS  
 https://www.arxiv.org/pdf/2502.12352
 2. Fast Graph Representation Learning with PyTorch Geometric  
-https://arxiv.org/abs/1903.02428  
+https://arxiv.org/abs/1903.02428
+2. Inductive Representation Learning on Large Graphs  
+by William L. Hamilton et al.  
+https://arxiv.org/pdf/1706.02216  
 
 ## Neural ODE  
 1. Neural Ordinary Differential Equations  
