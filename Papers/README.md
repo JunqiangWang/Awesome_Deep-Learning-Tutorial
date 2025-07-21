@@ -28,13 +28,13 @@ https://www.nature.com/articles/s41467-025-56297-9
 2. Leveraging dendritic properties to advance machine learning and neuro-inspired computing
 https://www.sciencedirect.com/science/article/pii/S0959438824000151  
 
-## Single cell
+## Single Cell
 1. Virtual Cell Challenge: Toward a Turing test for the virtual cell
 https://www.cell.com/action/showPdf?pii=S0092-8674%2825%2900675-0
 2. The CausalBench challenge: A machine learning contest for gene network inference from single-cell perturbation data
 https://arxiv.org/abs/2308.15395
 
-## Multimodal data fusion
+## Multimodal Data Fusion
 
 ## Algorithm  
 1. Bayesian Computation in Deep Learning  
