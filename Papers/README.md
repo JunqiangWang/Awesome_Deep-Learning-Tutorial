@@ -25,7 +25,15 @@ https://arxiv.org/pdf/1806.07366
 2. torchode: A Parallel ODE Solver for PyTorch  
 https://arxiv.org/pdf/2210.12375  
 3. Awesome neural ode  
-https://github.com/Zymrael/awesome-neural-ode  
+https://github.com/Zymrael/awesome-neural-ode
+
+## Neural SDE  
+1. Scalable Gradients for Stochastic Differential Equations
+https://arxiv.org/abs/2001.01328  
+2. Neural SDEs as Infinite-Dimensional GANs  
+https://arxiv.org/abs/2102.03657
+3. torchsde  
+https://github.com/google-research/torchsde  
 
 ## Biology
 1. Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning  
