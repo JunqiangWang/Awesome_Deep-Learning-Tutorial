@@ -24,6 +24,8 @@ https://arxiv.org/pdf/1706.02216
 https://arxiv.org/pdf/1806.07366  
 2. torchode: A Parallel ODE Solver for PyTorch  
 https://arxiv.org/pdf/2210.12375  
+3. Awesome neural ode  
+https://github.com/Zymrael/awesome-neural-ode  
 
 ## Biology
 1. Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning  
