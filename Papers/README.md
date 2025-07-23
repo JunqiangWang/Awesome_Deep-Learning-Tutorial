@@ -28,7 +28,7 @@ https://arxiv.org/pdf/2210.12375
 https://github.com/Zymrael/awesome-neural-ode
 
 ## Neural SDE  
-1. Scalable Gradients for Stochastic Differential Equations
+1. Scalable Gradients for Stochastic Differential Equations  
 https://arxiv.org/abs/2001.01328  
 2. Neural SDEs as Infinite-Dimensional GANs  
 https://arxiv.org/abs/2102.03657
