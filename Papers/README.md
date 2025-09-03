@@ -48,7 +48,7 @@ https://www.cell.com/action/showPdf?pii=S0092-8674%2825%2900675-0
 https://arxiv.org/abs/2308.15395
 
 ## Multimodal Data Fusion  
-1. Tensor Fusion Network for Multimodal Sentiment Analysis
+1. Tensor Fusion Network for Multimodal Sentiment Analysis  
 https://arxiv.org/pdf/1707.07250
 
 ## Algorithm  
